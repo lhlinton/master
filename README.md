@@ -1,3 +1,3 @@
 # master
 test GitHub
-this is learning GitHub
+this is for learning GitHub
